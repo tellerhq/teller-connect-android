@@ -28,4 +28,4 @@ supportFragmentManager.commit {
 }
 ```
 
-To receive results and events, the parent activity must implement `ConnectListener`, see [example](example-app/src/main/java/io/teller/connect/example/MainActivity.kt).
+To receive results and events, the parent activity must implement `ConnectListener`, see [example](example-app/app/src/main/java/io/teller/connect/example/MainActivity.kt).
