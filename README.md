@@ -1,4 +1,4 @@
-![Maven Central Version](https://img.shields.io/maven-central/v/io.teller/connect-android-sdk)
+[![Maven Central Version](https://img.shields.io/maven-central/v/io.teller/connect-android-sdk)](https://central.sonatype.com/artifact/io.teller/connect-android-sdk)
 
 # Connect Android SDK
 
