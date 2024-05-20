@@ -1,0 +1,5 @@
+<resources>
+    <string name="application_name">Teller Example App</string>
+    <string name="connect_bank_account_fragment">Connect bank account (Fragment)</string>
+    <string name="connect_bank_account_activity">Connect bank account (Activity)</string>
+</resources>
