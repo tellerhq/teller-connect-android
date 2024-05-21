@@ -1,6 +1,6 @@
 [![Maven Central Version](https://img.shields.io/maven-central/v/io.teller/connect-android-sdk)](https://central.sonatype.com/artifact/io.teller/connect-android-sdk)
 
-# Connect Android SDK
+# Teller Connect Android SDK
 
 [Teller Connect](https://teller.io/docs/guides/connect) Android SDK.
 
